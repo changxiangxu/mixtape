@@ -10,7 +10,7 @@ use ./bf15_DD.dta, replace
 
 keep in 17/31
 
-*哈哈
+*哈哈哈
 gen		year=1986 in 1
 replace year=1987 in 2
 replace year=1988 in 3
